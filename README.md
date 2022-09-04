@@ -1,9 +1,5 @@
 Readme.md Version# 2021.08.23
 
-[Your Project Logo/Icon:]
-
-![Alternate 'text' description for the image](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
-
 # Good Sole 
 Good Sole is an application that sells shoes ranging from track & field to formal wear.
 
